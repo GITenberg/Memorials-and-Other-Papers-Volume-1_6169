@@ -1,5 +1,5 @@
 _repo: Memorials-and-Other-Papers-Volume-1_6169
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'English essays'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: Explanatory notices -- The orphan heiress -- Oxford -- The pagan
   oracles -- The revolution of Greece.
 title: Memorials and Other Papers — Volume 1
